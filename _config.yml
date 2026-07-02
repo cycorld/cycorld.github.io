@@ -30,7 +30,7 @@ twitter_username: cycorld
 github_username:  cycorld
 
 # Build settings
-theme: chesterhow/tale
+theme: tale
 plugins:
   - jekyll-feed
   - jekyll-paginate
